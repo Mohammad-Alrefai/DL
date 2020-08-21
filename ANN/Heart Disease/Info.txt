@@ -1,0 +1,24 @@
+ANN Classification
+
+0   male             4238 non-null   int64  
+ 1   age              4238 non-null   int64  
+ 2   education        4238 non-null   float64
+ 3   currentSmoker    4238 non-null   int64  
+ 4   cigsPerDay       4238 non-null   float64
+ 5   BPMeds           4238 non-null   float64
+ 6   prevalentStroke  4238 non-null   int64  
+ 7   prevalentHyp     4238 non-null   int64  
+ 8   diabetes         4238 non-null   int64  
+ 9   totChol          4238 non-null   float64
+ 10  sysBP            4238 non-null   float64
+ 11  diaBP            4238 non-null   float64
+ 12  BMI              4238 non-null   float64
+ 13  heartRate        4238 non-null   float64
+ 14  glucose          4238 non-null   float64
+ 15  TenYearCHD       4238 non-null   int64  
+
+
+
+   Accuracy                                       Recall                                   precision
+
+85.66037735849056                             0.6578947368421052                              50.0
