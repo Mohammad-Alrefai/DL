@@ -1,4 +1,4 @@
-****Under Processing to solve the under-fitting problem*****
+****Under Processing to solve the fitting problem*****
 ANN Classification
 
 0   male             4238 non-null   int64  
